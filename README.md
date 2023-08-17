@@ -3,4 +3,4 @@
 
 Todos os desafios serão linkados seguindo a seguinte tabulação:
 
-- "Capítulo do curso" - Desafio
+- "Capítulo do curso" - "Desafio" - "Resolucao"
